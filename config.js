@@ -1,2 +1,2 @@
 console.log('cofig.js')
-console.log('version2 updated')
+console.log('version3')
